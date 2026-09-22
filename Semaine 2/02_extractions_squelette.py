@@ -1,0 +1,9 @@
+# 02_extractions_squelette.py
+
+email = input("Email : ").strip().lower()
+position = ...
+identifiant = ...
+domaine = ...
+
+print("Identifiant :", identifiant)
+print("Domaine :", domaine)
