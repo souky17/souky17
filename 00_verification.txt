@@ -1,4 +1,0 @@
-Commande utilisée pour vérifier Python :
-Version Python :
-Environnement : local / Codespaces
-Système : Windows / Mac / Linux
